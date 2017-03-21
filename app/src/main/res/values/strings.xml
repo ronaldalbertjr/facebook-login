@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FacebookLogin</string>
+    <string name="facebookText">facebook</string>
+    <string name="emailString">Email</string>
+    <string name="passwordString">Password</string>
+    <string name="loginText">Log In</string>
+    <string name="registroString">Registro</string>
+    <string name="confirmaPasswordString">Confirma Password</string>
+</resources>
